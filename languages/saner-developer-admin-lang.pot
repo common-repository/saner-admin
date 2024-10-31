@@ -1,0 +1,233 @@
+# Translation of the Saner Developer Admin Plugin 
+# Copyright (C) 2012 Saner Design
+# This file is distributed under the same license as the Saner Developer Admin Plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Saner Developer Admin 1.0\n"
+"POT-Creation-Date: 2012-02-19 16:21+0000\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE \n"
+"MIME-Version: 3.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: saner-developer-admin.php:173
+msgid "Saner Admin Settings"
+msgstr ""
+
+#: saner-developer-admin.php:173
+msgid "Saner Admin"
+msgstr ""
+
+#: saner-developer-admin.php:181
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: saner-developer-admin.php:186
+msgid "Saner Color and Admin Settings"
+msgstr ""
+
+#: saner-developer-admin.php:192
+msgid "please donate to help me maintain this plugin"
+msgstr ""
+
+#: saner-developer-admin.php:200
+msgid "Save Changes"
+msgstr ""
+
+#: saner-developer-admin.php:209
+msgid "Logo Settings"
+msgstr ""
+
+#: saner-developer-admin.php:211
+msgid "Remove Wordpress Login Logo"
+msgstr ""
+
+#: saner-developer-admin.php:213
+msgid "Remove Wordpress Logo in Admin"
+msgstr ""
+
+#: saner-developer-admin.php:216
+msgid "Dashboard Colors"
+msgstr ""
+
+#: saner-developer-admin.php:218
+msgid "Header Background Color"
+msgstr ""
+
+#: saner-developer-admin.php:219
+msgid "Site Heading Text"
+msgstr ""
+
+#: saner-developer-admin.php:220
+msgid "Site Heading Text Hover"
+msgstr ""
+
+#: saner-developer-admin.php:222
+msgid "Sidebar Background"
+msgstr ""
+
+#: saner-developer-admin.php:223
+msgid "Menu Title Text"
+msgstr ""
+
+#: saner-developer-admin.php:224
+msgid "Menu Title Text Hover"
+msgstr ""
+
+#: saner-developer-admin.php:225
+msgid "Menu Title Background"
+msgstr ""
+
+#: saner-developer-admin.php:226
+msgid "Sub Menu Title Text"
+msgstr ""
+
+#: saner-developer-admin.php:227
+msgid "Sub Menu Title Text Hover"
+msgstr ""
+
+#: saner-developer-admin.php:228
+msgid "Selected Menu Text"
+msgstr ""
+
+#: saner-developer-admin.php:229
+msgid "Selected Menu Background"
+msgstr ""
+
+#: saner-developer-admin.php:230
+msgid "Selected Sub Menu Text"
+msgstr ""
+
+#: saner-developer-admin.php:232
+msgid "Wordpress Upgrade Reminder"
+msgstr ""
+
+#: saner-developer-admin.php:234
+msgid "Remove?"
+msgstr ""
+
+#: saner-developer-admin.php:236
+msgid "Wordpress Menu Items"
+msgstr ""
+
+
+
+#: saner-developer-admin.php:238
+msgid "Menu Title Background Hover"
+msgstr ""
+
+
+
+#: saner-developer-admin.php:238
+msgid "Dashboard"
+msgstr ""
+
+#: saner-developer-admin.php:239
+msgid "Posts"
+msgstr ""
+
+#: saner-developer-admin.php:240
+msgid "Media"
+msgstr ""
+
+#: saner-developer-admin.php:241
+msgid "Links"
+msgstr ""
+
+#: saner-developer-admin.php:242
+msgid "Pages"
+msgstr ""
+
+#: saner-developer-admin.php:243
+msgid "Comments"
+msgstr ""
+
+#: saner-developer-admin.php:244
+msgid "Tools"
+msgstr ""
+
+#: saner-developer-admin.php:245
+msgid "Settings"
+msgstr ""
+
+#: saner-developer-admin.php:251
+msgid "Remove the Wordpress logo from the login page and dashboard"
+msgstr ""
+
+#: saner-developer-admin.php:264, 280
+msgid "Upload Image"
+msgstr ""
+
+#: saner-developer-admin.php:266
+msgid "Add your own logo file url or upload an image 310 x 70 px max."
+msgstr ""
+
+#: saner-developer-admin.php:267, 283
+msgid "Leave it blank to have no logo."
+msgstr ""
+
+#: saner-developer-admin.php:282
+msgid "Add your own logo file url or upload an image 16 x 16 px."
+msgstr ""
+
+#: saner-developer-admin.php:290
+msgid "Change the colors on your dashboard by using hex colors e.g. #ffffff or the color chart"
+msgstr ""
+
+#: saner-developer-admin.php:296, 366
+msgid "Top Gradient Color or Solid Colour"
+msgstr ""
+
+#: saner-developer-admin.php:296, 366
+msgid "Bottom Gradient Color"
+msgstr ""
+
+#: saner-developer-admin.php:297, 366
+msgid "(leave blank for solid color)"
+msgstr ""
+
+#: saner-developer-admin.php:343, 350, 356
+msgid "Background Color"
+msgstr ""
+
+#: saner-developer-admin.php:343
+msgid "Top Border Color"
+msgstr ""
+
+#: saner-developer-admin.php:343
+msgid "Bottom Border Color"
+msgstr ""
+
+#: saner-developer-admin.php:366
+msgid "Background Hover Color"
+msgstr ""
+
+#: saner-developer-admin.php:366
+msgid "Top Border Hover Color"
+msgstr ""
+
+#: saner-developer-admin.php:366
+msgid "Bottom Border Hover Color"
+msgstr ""
+
+#: saner-developer-admin.php:350, 356
+msgid "Font Color"
+msgstr ""
+
+#: saner-developer-admin.php:378
+msgid "Remove WP ugrade reminder for non admins"
+msgstr ""
+
+#: saner-developer-admin.php:390
+msgid "Check the box of the appropriate menu item to remove it for non administrators"
+msgstr ""
+
+#: saner-developer-admin.php:390
+msgid "Check the box of the appropriate menu item to remove it for non administrators"
+msgstr ""

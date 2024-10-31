@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* Saner Developer Admin Plugin Style Sheet */
+
+.clear {
+  clear: both;
+}
+/* color picker */
+#ilctabscolorpicker_container {
+  position: relative;
+}
+.ilctabscolorpicker_sub_container {
+  position: absolute;
+  top: -75px;
+  left: 480px; 
+}
+/* donate style */
+
+.saner_donate {
+  position: relative;
+  float: right;
+  margin-right: 50px;
+}
+.saner_donate img {
+  position: absolute;
+  top: -50px;
+  left: -100px;
+  z-index: 99999999;
+}
+
+/* submit button and other buttons*/
+#saner_developer_admin_submit {
+  margin-top: 50px;
+}
+
+#saner_developer_admin_submit, .saner_button {
+  color: #ffffff!important;
+  background: #F00F00!important;
+  border: 1px solid #F00F00!important;
+}
+
+/* subtitles */
+
+h3 {
+  border-bottom: 1px solid #767676;
+  padding-bottom: 5px;
+}
+
+/* logos css */
+
+.saner_developer_image_sample {
+  float: left;
+  margin-left: -150px;
+  max-height: 50px;
+  max-width: 150px;
+}
+
+/* table layout */
+.form-table th {
+  font-weight: bold;
+}
+.sd_table {
+  border-spacing: 0;
+}
+.sd_table td, .sd_table th {
+  font-style: italic;
+  font-weight: normal;
+  padding: 0 10px 0 0;
+}
